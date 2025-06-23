@@ -1,0 +1,7 @@
+.idea
+.filebeat
+.docs
+*.log
+filebeat
+*.exe
+*.exe~
